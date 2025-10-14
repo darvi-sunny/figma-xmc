@@ -1,0 +1,17 @@
+---
+ID: "f1a2b3c4-d5e6-4f5a-8b9c-0d1e2f3a4b5c"
+Parent: "e1f2a3b4-c5d6-4e5f-8a9b-0c1d2e3f4a5b"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/ESheba/Component Templates/Hero/Data
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "Office/32x32/data.png"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250113T120000Z

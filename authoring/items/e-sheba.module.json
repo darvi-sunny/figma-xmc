@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "ESheba",
+  "items": {
+	"path": "e-sheba",
+    "includes": [
+	  {
+        "name": "content",
+        "path": "/sitecore/content/XMC Migration Collection/ESheba"
+      },
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/ESheba"
+      },
+      {
+        "name": "renderings",
+        "path": "/sitecore/layout/Renderings/ESheba"
+      }
+    ]
+  }
+}

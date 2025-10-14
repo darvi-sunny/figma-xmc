@@ -1,0 +1,20 @@
+---
+ID: "e1f2a3b4-c5d6-4e5f-8a9b-0c1d2e3f4a5b"
+Parent: "d1e2f3a4-b5c6-4d5e-8f9a-0b1c2d3e4f5a"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/ESheba/Component Templates/Hero
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "Applications/32x32/photo_landscape.png"
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250113T120000Z

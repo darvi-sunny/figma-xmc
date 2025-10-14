@@ -1,0 +1,31 @@
+﻿---
+ID: "6a4574f8-605f-497a-92e2-4149e5e569f7"
+Parent: "cdc155f4-1669-4204-8d9d-1e89960f9fe5"
+Template: "b355f1cf-90b3-48c7-ad65-b85bd5eaaa5f"
+Path: /sitecore/content/XMC Migration Collection/ESheba/Data/TextSlider
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251014T103921Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba86deef-971f-43df-9ff8-66c168f9e7bc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251014T103921Z
