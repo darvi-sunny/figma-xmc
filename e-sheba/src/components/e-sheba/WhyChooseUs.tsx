@@ -21,7 +21,7 @@ interface WhyChooseUsProps {
   fields: WhyChooseUsFields;
 }
 
-export const WhyChooseUs = ({ fields }: WhyChooseUsProps) => {
+export const Default = ({ fields }: WhyChooseUsProps) => {
   return (
     <section className="py-16 bg-gray-50">
       <div className="container mx-auto px-4">

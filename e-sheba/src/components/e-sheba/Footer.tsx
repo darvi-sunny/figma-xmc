@@ -30,7 +30,7 @@ interface FooterProps {
   fields: FooterFields;
 }
 
-export const Footer = ({ fields }: FooterProps) => {
+export const Default = ({ fields }: FooterProps) => {
   return (
     <footer className="bg-blue-600 text-white py-12">
       <div className="container mx-auto px-4">

@@ -20,7 +20,7 @@ interface QualityHealthProps {
   fields: QualityHealthFields;
 }
 
-export const QualityHealth = ({ fields }: QualityHealthProps) => {
+export const Default = ({ fields }: QualityHealthProps) => {
   return (
     <section className="py-16 bg-white">
       <div className="container mx-auto px-4">

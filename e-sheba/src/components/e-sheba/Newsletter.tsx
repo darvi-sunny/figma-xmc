@@ -11,7 +11,7 @@ interface NewsletterProps {
   fields: NewsletterFields;
 }
 
-export const Newsletter = ({ fields }: NewsletterProps) => {
+export const Default = ({ fields }: NewsletterProps) => {
   return (
     <section className="py-16 bg-blue-600">
       <div className="container mx-auto px-4">

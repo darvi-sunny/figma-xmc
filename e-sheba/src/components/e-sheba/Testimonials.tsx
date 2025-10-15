@@ -25,7 +25,7 @@ interface TestimonialsProps {
   fields: TestimonialsFields;
 }
 
-export const Testimonials = ({ fields }: TestimonialsProps) => {
+export const Default = ({ fields }: TestimonialsProps) => {
   return (
     <section className="py-16 bg-blue-50">
       <div className="container mx-auto px-4">

@@ -20,7 +20,7 @@ interface HeaderProps {
   fields: HeaderFields;
 }
 
-export const Header = ({ fields }: HeaderProps) => {
+export const Default = ({ fields }: HeaderProps) => {
   return (
     <header className="bg-white shadow-sm fixed top-0 left-0 right-0 z-50">
       <div className="container mx-auto px-4">

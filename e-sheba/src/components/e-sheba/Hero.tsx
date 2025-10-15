@@ -20,7 +20,7 @@ interface HeroProps {
   fields: HeroFields;
 }
 
-export const Hero = ({ fields }: HeroProps) => {
+export const Default = ({ fields }: HeroProps) => {
   return (
     <section className="bg-gradient-to-b from-blue-50 to-white pt-20 pb-16">
       <div className="container mx-auto px-4">
