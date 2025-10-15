@@ -197,11 +197,11 @@ import libphonenumber from 'google-libphonenumber';
 import { SuccessCompact } from 'src/components/forms/success/success-compact.dev';
 import { Card, CardContent, CardHeader, CardTitle, CardFooter } from '@/components/ui/card';
 import * as e from '@/lib/enum';
+import { SpecialistCard } from '@/components/ui/SpecialistCard';
 import { TestimonialCard } from '@/components/ui/TestimonialCard';
 import { NewsletterForm } from '@/components/ui/NewsletterForm';
 import { SearchForm } from '@/components/ui/SearchForm';
 import { StatsBar } from '@/components/ui/StatsBar';
-import { SpecialistCard } from '@/components/ui/SpecialistCard';
 import client from 'lib/sitecore-client';
 import * as FEAAS from '@sitecore-feaas/clientside/react';
 import nextConfig from 'next.config';
@@ -1508,6 +1508,12 @@ const importMap = [
     ]
   },
   {
+    module: '@/components/ui/SpecialistCard',
+    exports: [
+      { name: 'SpecialistCard', value: SpecialistCard },
+    ]
+  },
+  {
     module: '@/components/ui/TestimonialCard',
     exports: [
       { name: 'TestimonialCard', value: TestimonialCard },
@@ -1529,12 +1535,6 @@ const importMap = [
     module: '@/components/ui/StatsBar',
     exports: [
       { name: 'StatsBar', value: StatsBar },
-    ]
-  },
-  {
-    module: '@/components/ui/SpecialistCard',
-    exports: [
-      { name: 'SpecialistCard', value: SpecialistCard },
     ]
   },
   {

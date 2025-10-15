@@ -1,18 +1,18 @@
 ﻿---
-ID: "a2b3c4d5-e6f1-4a5b-8c9d-0e1f2a3b4c6a"
+ID: "c4d5e6f1-a2b3-4c5d-8e9f-0a1b2c3d4e6c"
 Parent: "d5e6f1a2-b3c4-4d5e-8f9a-0b1c2d3e4f5c"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: /sitecore/layout/Renderings/ESheba/Why Choose Us
+Path: /sitecore/layout/Renderings/ESheba/EshebaQualityHealth
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
-  Value: WhyChooseUs
+  Value: EshebaQualityHealth
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Applications/32x32/check.png
+  Value: Applications/32x32/heart.png
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "20cfaf4c-de59-41d1-82c3-75ddf85555de"
+  Value: "9f2e6520-2962-4297-bacf-1848d22df397"
 Languages:
 - Language: en
   Versions:
@@ -23,11 +23,11 @@ Languages:
       Value: 20250113T120000Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "64c0cb72-69e9-46ca-9125-9e4ac3170655"
+      Value: "5d7fbb38-a1df-4ed8-9580-021ee1923834"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\darvi.sunny@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251014T131110Z
+      Value: 20251014T131109Z
